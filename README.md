@@ -1,0 +1,2 @@
+# srcfiles
+sndrizpipe, pythonphot, hstphot
